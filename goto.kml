@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>OpenCPN Route</name>
+    <Placemark>
+      <name>001</name>
+      <description></description>
+      <Point>
+        <coordinates>146.537,-17.6518,0. </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>002</name>
+      <description></description>
+      <Point>
+        <coordinates>146.495,-17.6957,0. </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>003</name>
+      <description></description>
+      <Point>
+        <coordinates>146.468,-17.7116,0. </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>004</name>
+      <description></description>
+      <Point>
+        <coordinates>146.441,-17.7311,0. </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>005</name>
+      <description></description>
+      <Point>
+        <coordinates>146.412,-17.7607,0. </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>006</name>
+      <description></description>
+      <Point>
+        <coordinates>146.442,-17.7336,0. </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>007</name>
+      <description></description>
+      <Point>
+        <coordinates>146.47,-17.7135,0. </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>008</name>
+      <description></description>
+      <Point>
+        <coordinates>146.496,-17.6976,0. </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Path</name>
+      <LineString>
+        <coordinates>146.537,-17.6518,0. 146.495,-17.6957,0. 146.468,-17.7116,0. 146.441,-17.7311,0. 146.412,-17.7607,0. 146.442,-17.7336,0. 146.47,-17.7135,0. 146.496,-17.6976,0. </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
+
